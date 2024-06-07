@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/frost/Desktop/Chenna/ace-online-android/app/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/frost/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/frost/Desktop/Chenna/ace-online-android/app/.cxx/Debug/285v5bf1/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/frost/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/frost/Desktop/Chenna/ace-online-android/app/.cxx/Debug/285v5bf1/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "deeplearncore::@6890427a1f51a3e7e1df": {
+      "artifactName": "deeplearncore",
+      "abi": "arm64-v8a",
+      "output": "/Users/frost/Desktop/Chenna/ace-online-android/app/build/intermediates/cxx/Debug/285v5bf1/obj/arm64-v8a/libdeeplearncore.so",
+      "runtimeFiles": []
+    }
+  }
+}

@@ -1,0 +1,3 @@
+# ninja log v5
+0	7395	1717743597789483133	CMakeFiles/deeplearncore.dir/src/main/cpp/signature/DeepLearnCore.cpp.o	a692b71886793611
+7395	10691	1717743601083853302	../../../../build/intermediates/cxx/Debug/285v5bf1/obj/arm64-v8a/libdeeplearncore.so	6be47533a431d0c1

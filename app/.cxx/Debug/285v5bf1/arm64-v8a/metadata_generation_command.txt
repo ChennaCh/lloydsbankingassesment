@@ -1,0 +1,22 @@
+                        -H/Users/frost/Desktop/Chenna/ace-online-android/app
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=23
+-DANDROID_PLATFORM=android-23
+-DANDROID_ABI=arm64-v8a
+-DCMAKE_ANDROID_ARCH_ABI=arm64-v8a
+-DANDROID_NDK=/Users/frost/Library/Android/sdk/ndk/22.1.7171670
+-DCMAKE_ANDROID_NDK=/Users/frost/Library/Android/sdk/ndk/22.1.7171670
+-DCMAKE_TOOLCHAIN_FILE=/Users/frost/Library/Android/sdk/ndk/22.1.7171670/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/Users/frost/Library/Android/sdk/cmake/3.22.1/bin/ninja
+-DCMAKE_C_FLAGS=-D__STDC_FORMAT_MACROS
+-DCMAKE_CXX_FLAGS=-fexceptions -frtti
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/frost/Desktop/Chenna/ace-online-android/app/build/intermediates/cxx/Debug/285v5bf1/obj/arm64-v8a
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/Users/frost/Desktop/Chenna/ace-online-android/app/build/intermediates/cxx/Debug/285v5bf1/obj/arm64-v8a
+-DCMAKE_BUILD_TYPE=Debug
+-B/Users/frost/Desktop/Chenna/ace-online-android/app/.cxx/Debug/285v5bf1/arm64-v8a
+-GNinja
+-DANDROID_ARM_NEON=TRUE
+-DANDROID_TOOLCHAIN=clang
+                        Build command args: []
+                        Version: 2

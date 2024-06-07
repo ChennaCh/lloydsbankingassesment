@@ -1,0 +1,50 @@
+<resources>
+    <dimen name="app_bar_height">513dp</dimen>
+    <dimen name="fab_margin">44dp</dimen>
+    <dimen name="text_margin">44dp</dimen>
+
+    <dimen name="text_size_5">13sp</dimen>
+    <dimen name="text_size_6">15sp</dimen>
+    <dimen name="text_size_7">17sp</dimen>
+    <dimen name="text_size_8">18sp</dimen>
+    <dimen name="text_size_9">20sp</dimen>
+    <dimen name="text_size_10">23sp</dimen>
+    <dimen name="text_size_11">25sp</dimen>
+    <dimen name="text_size_12">27sp</dimen>
+    <dimen name="text_size_13">30sp</dimen>
+    <dimen name="text_size_14">32sp</dimen>
+    <dimen name="text_size_15">34sp</dimen>
+    <dimen name="text_size_16">37sp</dimen>
+    <dimen name="text_size_17">39sp</dimen>
+    <dimen name="text_size_18">41sp</dimen>
+    <dimen name="text_size_19">43sp</dimen>
+    <dimen name="text_size_20">46sp</dimen>
+    <dimen name="text_size_21">48sp</dimen>
+    <dimen name="text_size_22">50sp</dimen>
+    <dimen name="text_size_23">53sp</dimen>
+    <dimen name="text_size_24">55sp</dimen>
+    <dimen name="text_size_25">57sp</dimen>
+    <dimen name="text_size_26">60sp</dimen>
+    <dimen name="text_size_27">62sp</dimen>
+    <dimen name="text_size_28">64sp</dimen>
+    <dimen name="text_size_29">67sp</dimen>
+    <dimen name="text_size_30">69sp</dimen>
+    <dimen name="text_size_31">71sp</dimen>
+    <dimen name="text_size_32">74sp</dimen>
+    <dimen name="text_size_33">76sp</dimen>
+    <dimen name="text_size_34">78sp</dimen>
+    <dimen name="text_size_35">81sp</dimen>
+    <dimen name="text_size_36">83sp</dimen>
+    <dimen name="text_size_38">88sp</dimen>
+    <dimen name="text_size_39">90sp</dimen>
+    <dimen name="text_size_40">93sp</dimen>
+
+    <dimen name="standard_55">205dp</dimen>
+    <dimen name="standard_105">398dp</dimen>
+
+
+    <dimen name="bottom_margin">181dp</dimen>
+
+
+
+</resources>

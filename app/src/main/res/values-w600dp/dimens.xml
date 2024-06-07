@@ -1,0 +1,49 @@
+<resources>
+    <dimen name="app_bar_height">240dp</dimen>
+    <dimen name="fab_margin">32dp</dimen>
+    <dimen name="text_margin">24dp</dimen>
+
+
+    <dimen name="text_size_5">7sp</dimen>
+    <dimen name="text_size_6">8sp</dimen>
+    <dimen name="text_size_7">9sp</dimen>
+    <dimen name="text_size_8">10sp</dimen>
+    <dimen name="text_size_9">11sp</dimen>
+    <dimen name="text_size_10">12sp</dimen>
+    <dimen name="text_size_11">13sp</dimen>
+    <dimen name="text_size_12">14sp</dimen>
+    <dimen name="text_size_13">15sp</dimen>
+    <dimen name="text_size_14">16sp</dimen>
+    <dimen name="text_size_15">17sp</dimen>
+    <dimen name="text_size_16">18sp</dimen>
+    <dimen name="text_size_17">19sp</dimen>
+    <dimen name="text_size_18">20sp</dimen>
+    <dimen name="text_size_19">21sp</dimen>
+    <dimen name="text_size_20">22sp</dimen>
+    <dimen name="text_size_21">23sp</dimen>
+    <dimen name="text_size_22">24sp</dimen>
+    <dimen name="text_size_23">25sp</dimen>
+    <dimen name="text_size_24">26sp</dimen>
+    <dimen name="text_size_25">27sp</dimen>
+    <dimen name="text_size_26">28sp</dimen>
+    <dimen name="text_size_27">29sp</dimen>
+    <dimen name="text_size_28">30sp</dimen>
+    <dimen name="text_size_29">31sp</dimen>
+    <dimen name="text_size_30">32sp</dimen>
+    <dimen name="text_size_31">33sp</dimen>
+    <dimen name="text_size_32">34sp</dimen>
+    <dimen name="text_size_33">35sp</dimen>
+    <dimen name="text_size_34">36sp</dimen>
+    <dimen name="text_size_35">37sp</dimen>
+    <dimen name="text_size_36">38sp</dimen>
+    <dimen name="text_size_38">40sp</dimen>
+    <dimen name="text_size_39">42sp</dimen>
+    <dimen name="text_size_40">44sp</dimen>
+
+    <dimen name="standard_55">100dp</dimen>
+    <dimen name="standard_105">190dp</dimen>
+
+    //increase by 10 for other layouts(actionbar size + 10)
+    <dimen name="bottom_margin">100dp</dimen>
+
+</resources>

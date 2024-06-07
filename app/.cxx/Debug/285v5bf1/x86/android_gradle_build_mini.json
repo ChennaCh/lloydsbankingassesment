@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/frost/Desktop/Chenna/lloydsbankingassesment/app/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/frost/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/frost/Desktop/Chenna/lloydsbankingassesment/app/.cxx/Debug/285v5bf1/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/frost/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/frost/Desktop/Chenna/lloydsbankingassesment/app/.cxx/Debug/285v5bf1/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "deeplearncore::@6890427a1f51a3e7e1df": {
+      "artifactName": "deeplearncore",
+      "abi": "x86",
+      "output": "/Users/frost/Desktop/Chenna/lloydsbankingassesment/app/build/intermediates/cxx/Debug/285v5bf1/obj/x86/libdeeplearncore.so",
+      "runtimeFiles": []
+    }
+  }
+}

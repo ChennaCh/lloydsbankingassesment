@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AceOnline</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_helper">HelperActivity</string>
+    <!-- Strings used for fragments for navigation -->
+
+</resources>

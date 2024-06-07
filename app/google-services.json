@@ -1,0 +1,287 @@
+{
+  "project_info": {
+    "project_number": "373211067678",
+    "firebase_url": "https://leap-81741.firebaseio.com",
+    "project_id": "leap-81741",
+    "storage_bucket": "leap-81741.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373211067678:android:c5e2bb85dfe3fbf25fc50f",
+        "android_client_info": {
+          "package_name": "com.frost.cms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373211067678-3dijhs8stpcppjgg8sgmepsd4sanhc9k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.frost.cms",
+            "certificate_hash": "d95aa5de864ca8201a4aa38e36e6347152724684"
+          }
+        },
+        {
+          "client_id": "373211067678-ll116uamo739gttjb4sdvbrt4t8vh2it.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.frost.cms",
+            "certificate_hash": "8dd7456ece0634b7e5a02fc96aa0586e48ce5704"
+          }
+        },
+        {
+          "client_id": "373211067678-ns9tqo1dmvmc1h0a13pnfac47i9aofs5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.frost.cms",
+            "certificate_hash": "45a11aa0890d3fafb3bc76fbeff511da5fa79d60"
+          }
+        },
+        {
+          "client_id": "373211067678-5defu9igqsc69c7cji92o1l3bfvtspq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0ftvyX7l3bvmRmUBueyZtTbvwQaXz7Po"
+        },
+        {
+          "current_key": "AIzaSyBHJMo9WiD9q0zY6IrmQPr_xeiWwFm4QEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373211067678-5defu9igqsc69c7cji92o1l3bfvtspq0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "373211067678-grd82qeund2or3ntgb4tf5tdakqhpp5u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.frostintreractive.deeplearn"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373211067678:android:adedaab15d7df48f",
+        "android_client_info": {
+          "package_name": "com.frost.leap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373211067678-2su03ibcr1ivvnoo0djujiufhj55qr39.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.frost.leap",
+            "certificate_hash": "735830e72e20f01b8fa2f854994da20febcf1d4b"
+          }
+        },
+        {
+          "client_id": "373211067678-5hn4apihi586a3sulu9qirob11n3cvhs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.frost.leap",
+            "certificate_hash": "45a11aa0890d3fafb3bc76fbeff511da5fa79d60"
+          }
+        },
+        {
+          "client_id": "373211067678-j78l1gj1iuk2nfirlkm1imntaqh9t4r0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.frost.leap",
+            "certificate_hash": "d95aa5de864ca8201a4aa38e36e6347152724684"
+          }
+        },
+        {
+          "client_id": "373211067678-kuonmh5kijgthlhc1mpeh4fs4h9rhu9e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.frost.leap",
+            "certificate_hash": "8dd7456ece0634b7e5a02fc96aa0586e48ce5704"
+          }
+        },
+        {
+          "client_id": "373211067678-5defu9igqsc69c7cji92o1l3bfvtspq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0ftvyX7l3bvmRmUBueyZtTbvwQaXz7Po"
+        },
+        {
+          "current_key": "AIzaSyBHJMo9WiD9q0zY6IrmQPr_xeiWwFm4QEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373211067678-5defu9igqsc69c7cji92o1l3bfvtspq0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "373211067678-grd82qeund2or3ntgb4tf5tdakqhpp5u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.frostintreractive.deeplearn"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373211067678:android:727eb99961ffc9275fc50f",
+        "android_client_info": {
+          "package_name": "com.frost.leap_staging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373211067678-26o55f9v0vo7f3kve2sq9s9nu56kbf2e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.frost.leap_staging",
+            "certificate_hash": "45a11aa0890d3fafb3bc76fbeff511da5fa79d60"
+          }
+        },
+        {
+          "client_id": "373211067678-2e44ndlgtghra33n5tfanfjt4v853rar.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.frost.leap_staging",
+            "certificate_hash": "d95aa5de864ca8201a4aa38e36e6347152724684"
+          }
+        },
+        {
+          "client_id": "373211067678-ffgb12cvbaoprogumnvn6den4k6pivih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.frost.leap_staging",
+            "certificate_hash": "8dd7456ece0634b7e5a02fc96aa0586e48ce5704"
+          }
+        },
+        {
+          "client_id": "373211067678-gvo2u5flps7pgoln4592jlbfi48nijd0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.frost.leap_staging",
+            "certificate_hash": "735830e72e20f01b8fa2f854994da20febcf1d4b"
+          }
+        },
+        {
+          "client_id": "373211067678-5defu9igqsc69c7cji92o1l3bfvtspq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0ftvyX7l3bvmRmUBueyZtTbvwQaXz7Po"
+        },
+        {
+          "current_key": "AIzaSyBHJMo9WiD9q0zY6IrmQPr_xeiWwFm4QEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373211067678-5defu9igqsc69c7cji92o1l3bfvtspq0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "373211067678-grd82qeund2or3ntgb4tf5tdakqhpp5u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.frostintreractive.deeplearn"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373211067678:android:48e4b035748eb7685fc50f",
+        "android_client_info": {
+          "package_name": "com.frost.leap_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373211067678-182stcclcs4pjlittuprblbu4nk0s658.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.frost.leap_test",
+            "certificate_hash": "45a11aa0890d3fafb3bc76fbeff511da5fa79d60"
+          }
+        },
+        {
+          "client_id": "373211067678-crtteniahgh9gstr86mqnl9g3shl9anm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.frost.leap_test",
+            "certificate_hash": "735830e72e20f01b8fa2f854994da20febcf1d4b"
+          }
+        },
+        {
+          "client_id": "373211067678-ejdl24h6n63f28uvvqvi8dspgflso57m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.frost.leap_test",
+            "certificate_hash": "d95aa5de864ca8201a4aa38e36e6347152724684"
+          }
+        },
+        {
+          "client_id": "373211067678-o8ofaao7s7fmgm5svukt6kb0p4bc7b5n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.frost.leap_test",
+            "certificate_hash": "8dd7456ece0634b7e5a02fc96aa0586e48ce5704"
+          }
+        },
+        {
+          "client_id": "373211067678-5defu9igqsc69c7cji92o1l3bfvtspq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0ftvyX7l3bvmRmUBueyZtTbvwQaXz7Po"
+        },
+        {
+          "current_key": "AIzaSyBHJMo9WiD9q0zY6IrmQPr_xeiWwFm4QEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373211067678-5defu9igqsc69c7cji92o1l3bfvtspq0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "373211067678-grd82qeund2or3ntgb4tf5tdakqhpp5u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.frostintreractive.deeplearn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

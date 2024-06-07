@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/frost/Desktop/Chenna/lloydsbankingassesment/app/.cxx/Debug/285v5bf1/x86",
+  "command": "/Users/frost/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android23 --gcc-toolchain=/Users/frost/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/frost/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Ddeeplearncore_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fexceptions -frtti -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles/deeplearncore.dir/src/main/cpp/signature/DeepLearnCore.cpp.o -c /Users/frost/Desktop/Chenna/lloydsbankingassesment/app/src/main/cpp/signature/DeepLearnCore.cpp",
+  "file": "/Users/frost/Desktop/Chenna/lloydsbankingassesment/app/src/main/cpp/signature/DeepLearnCore.cpp"
+}
+]
